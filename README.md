@@ -8,7 +8,7 @@
 - <b>PowerShell</b>
 
 
-<h2>  Finally Repsters:</h2>
+<h2> Repsters:</h2>
 
 - 🔭 I’m currently working on Cyber Security, Dev-Ops, Sys-Ops, Sec-ops, 
 - 🌱 I’m currently learning Public and Private Blockchain
